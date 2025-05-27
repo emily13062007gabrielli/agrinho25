@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:20px;
+    background-color: rgb(6, 243, 223);
+
+}
+
+header{
+    background-color: rgb(6, 59, 71);
+    color: rgb(250, 252, 252);
+    text-align: center;
+    padding: 20px 0;
+
+}
+
+h1{
+    margin: 0;
+
+}
+
+h2{ text-align: center;
+    margin-top: 30px;
+
+}
+
+p{
+    text-align: justify;
+    margin: 20px auto;
+    max-width: 1000px;
+    /* margem lateral */
+
+}
